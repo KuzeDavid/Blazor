@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kuze\\Desktop\\school\\Blazor\\Blazor\\SuperBlazor\\SuperBlazor.csproj": {}
+    "c:\\Users\\Kuze\\Desktop\\school\\Blazor\\Blazor\\SuperBlazor\\SuperBlazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kuze\\Desktop\\school\\Blazor\\Blazor\\SuperBlazor\\SuperBlazor.csproj": {
+    "c:\\Users\\Kuze\\Desktop\\school\\Blazor\\Blazor\\SuperBlazor\\SuperBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kuze\\Desktop\\school\\Blazor\\Blazor\\SuperBlazor\\SuperBlazor.csproj",
+        "projectUniqueName": "c:\\Users\\Kuze\\Desktop\\school\\Blazor\\Blazor\\SuperBlazor\\SuperBlazor.csproj",
         "projectName": "SuperBlazor",
-        "projectPath": "C:\\Users\\Kuze\\Desktop\\school\\Blazor\\Blazor\\SuperBlazor\\SuperBlazor.csproj",
+        "projectPath": "c:\\Users\\Kuze\\Desktop\\school\\Blazor\\Blazor\\SuperBlazor\\SuperBlazor.csproj",
         "packagesPath": "C:\\Users\\Kuze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kuze\\Desktop\\school\\Blazor\\Blazor\\SuperBlazor\\obj\\",
+        "outputPath": "c:\\Users\\Kuze\\Desktop\\school\\Blazor\\Blazor\\SuperBlazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kuze\\AppData\\Roaming\\NuGet\\NuGet.Config"
